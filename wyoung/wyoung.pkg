@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'wyoung': Control the family-wise error rate when performing multiple hypothesis tests Use wyoung With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f wyoung.ado
+f wyoung.sthlp
