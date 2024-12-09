@@ -1,6 +1,8 @@
 # wyoung
 Control the family-wise error rate when performing multiple hypothesis tests Use wyoung With STATA 18
 
+https://www.youtube.com/watch?v=CV0-xbgyfKs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
